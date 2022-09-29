@@ -1,0 +1,283 @@
+{
+  "version": 1,
+  "minor_version": 3,
+  "key": "core.device_registry",
+  "data": {
+    "devices": [
+      {
+        "config_entries": [
+          "7d46e96add6a8e396fced1031e5605c9"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "core"
+          ]
+        ],
+        "manufacturer": "Home Assistant",
+        "model": "Home Assistant Core",
+        "name": "Home Assistant Core",
+        "sw_version": "2022.9.7",
+        "hw_version": null,
+        "entry_type": "service",
+        "id": "0b5cdb72952a7808b9f44b2119c12dc1",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "7d46e96add6a8e396fced1031e5605c9"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "supervisor"
+          ]
+        ],
+        "manufacturer": "Home Assistant",
+        "model": "Home Assistant Supervisor",
+        "name": "Home Assistant Supervisor",
+        "sw_version": "2022.09.1",
+        "hw_version": null,
+        "entry_type": "service",
+        "id": "60adf2a2acb8159ef54ed5a51707e6a1",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "7d46e96add6a8e396fced1031e5605c9"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "OS"
+          ]
+        ],
+        "manufacturer": "Home Assistant",
+        "model": "Home Assistant Operating System",
+        "name": "Home Assistant Operating System",
+        "sw_version": "9.0",
+        "hw_version": null,
+        "entry_type": "service",
+        "id": "26f0f572bf6e14393ffc5222ac1b2fc9",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "9f70bb9bb4f0fbfc1226d5d6b74c03a6"
+        ],
+        "connections": [
+          [
+            "bluetooth",
+            "E4:5F:01:1D:66:F1"
+          ]
+        ],
+        "identifiers": [],
+        "manufacturer": null,
+        "model": null,
+        "name": "hci0 (E4:5F:01:1D:66:F1)",
+        "sw_version": "homeassistant",
+        "hw_version": "usb:v1D6Bp0246d053F",
+        "entry_type": null,
+        "id": "6f4ef356cc4035b74d1048fec2fe9ea6",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "04ef12f30963e704c7b4baaad41b7c1f"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "cast",
+            "b2e177daf8b6def687af2e233183703e"
+          ]
+        ],
+        "manufacturer": "Sony",
+        "model": "BRAVIA 4K GB",
+        "name": "TV",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "b8342fc48d409f958e496aa2fb410323",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "04ef12f30963e704c7b4baaad41b7c1f"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "cast",
+            "335651a536f4000a6e1236dd47dc466f"
+          ]
+        ],
+        "manufacturer": "Google Inc.",
+        "model": "Google Nest Hub",
+        "name": "Woonkamer",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "334658d9dfdf047477a2a6d2b9e3d008",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "04ef12f30963e704c7b4baaad41b7c1f"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "cast",
+            "ce8fe92b6a8996fc0d12ee89734b605e"
+          ]
+        ],
+        "manufacturer": "Google Inc.",
+        "model": "Google Home Mini",
+        "name": "Slaapkamer",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "6740bbeef4bb85879413411d9ddeb349",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "04ef12f30963e704c7b4baaad41b7c1f"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "cast",
+            "3ed5c26bbc4d71b078758a458ab8357f"
+          ]
+        ],
+        "manufacturer": "Google Inc.",
+        "model": "Google Home Mini",
+        "name": "Google home",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "5c2bfe40d0139d3426827e4313635855",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "4b98a85f36177b38ffff8bea21ef9e57"
+        ],
+        "connections": [
+          [
+            "mac",
+            "54:2a:1b:58:f5:58"
+          ],
+          [
+            "upnp",
+            "uuid:RINCON_542A1B58F55801400"
+          ]
+        ],
+        "identifiers": [
+          [
+            "sonos",
+            "RINCON_542A1B58F55801400"
+          ]
+        ],
+        "manufacturer": "Sonos",
+        "model": "SYMFONISK Bookshelf",
+        "name": "Woonkamer",
+        "sw_version": "14.16",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "5729da042e2a22dfd2f9554831b7d5c3",
+        "via_device_id": null,
+        "area_id": "woonkamer",
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": "http://192.168.178.157:1400/support/review"
+      },
+      {
+        "config_entries": [
+          "7d46e96add6a8e396fced1031e5605c9"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "core_configurator"
+          ]
+        ],
+        "manufacturer": "Official add-ons",
+        "model": "Home Assistant Add-on",
+        "name": "File editor",
+        "sw_version": "5.4.1",
+        "hw_version": null,
+        "entry_type": "service",
+        "id": "8fc675fa4cd0343ac4e7e7a4742f929e",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": "homeassistant://hassio/addon/core_configurator"
+      },
+      {
+        "config_entries": [
+          "7d46e96add6a8e396fced1031e5605c9"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "core_ssh"
+          ]
+        ],
+        "manufacturer": "Official add-ons",
+        "model": "Home Assistant Add-on",
+        "name": "Terminal & SSH",
+        "sw_version": "9.6.1",
+        "hw_version": null,
+        "entry_type": "service",
+        "id": "93fa1be606b02db84d29a2152572a2b6",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": "homeassistant://hassio/addon/core_ssh"
+      }
+    ],
+    "deleted_devices": []
+  }
+}

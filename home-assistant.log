@@ -1,0 +1,11 @@
+2022-09-29 21:14:45.124 WARNING (MainThread) [homeassistant.components.http.ban] Login attempt or request with invalid authentication from supervisor (172.30.32.2). Requested URL: '/auth/token'. (HomeAssistantSupervisor/2022.09.1 aiohttp/3.8.1 Python/3.10)
+2022-09-29 21:14:47.646 WARNING (SyncWorker_1) [homeassistant.components.rpi_power.binary_sensor] Under-voltage was detected. Consider getting a uninterruptible power supply for your Raspberry Pi.
+2022-09-29 21:15:18.437 ERROR (MainThread) [homeassistant] Error doing job: Task exception was never retrieved
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/zigpy_deconz/api.py", line 471, in _aps_data_indication
+    r = await self._command(
+  File "/usr/local/lib/python3.10/site-packages/zigpy_deconz/api.py", line 297, in _command
+    self._uart.send(data)
+AttributeError: 'NoneType' object has no attribute 'send'
+2022-09-29 21:16:17.686 WARNING (SyncWorker_3) [homeassistant.components.rpi_power.binary_sensor] Under-voltage was detected. Consider getting a uninterruptible power supply for your Raspberry Pi.
+2022-09-29 21:18:47.699 WARNING (SyncWorker_2) [homeassistant.components.rpi_power.binary_sensor] Under-voltage was detected. Consider getting a uninterruptible power supply for your Raspberry Pi.

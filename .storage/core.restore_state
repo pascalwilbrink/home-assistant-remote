@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "core.restore_state",
+  "data": [
+    {
+      "state": {
+        "entity_id": "update.home_assistant_supervisor_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": true,
+          "installed_version": "2022.09.1",
+          "in_progress": false,
+          "latest_version": "2022.09.1",
+          "release_summary": null,
+          "release_url": "https://github.com/home-assistant/supervisor/releases/tag/2022.09.1",
+          "skipped_version": null,
+          "title": "Home Assistant Supervisor",
+          "entity_picture": "https://brands.home-assistant.io/hassio/icon.png",
+          "friendly_name": "Home Assistant Supervisor Update",
+          "supported_features": 1
+        },
+        "last_changed": "2022-09-29T19:14:51.776574+00:00",
+        "last_updated": "2022-09-29T19:14:51.776574+00:00",
+        "context": {
+          "id": "01GE5ARKR0JB7FTSK03ZTCRQZH",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-09-29T19:14:53.355405+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.home_assistant_core_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "2022.9.7",
+          "in_progress": false,
+          "latest_version": "2022.9.7",
+          "release_summary": null,
+          "release_url": "https://www.home-assistant.io/latest-release-notes/",
+          "skipped_version": null,
+          "title": "Home Assistant Core",
+          "entity_picture": "https://brands.home-assistant.io/homeassistant/icon.png",
+          "friendly_name": "Home Assistant Core Update",
+          "supported_features": 11
+        },
+        "last_changed": "2022-09-29T19:14:51.778290+00:00",
+        "last_updated": "2022-09-29T19:14:51.778290+00:00",
+        "context": {
+          "id": "01GE5ARKR2V02TEB3GVG7PYR6E",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-09-29T19:14:53.355405+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.home_assistant_operating_system_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "9.0",
+          "in_progress": false,
+          "latest_version": "9.0",
+          "release_summary": null,
+          "release_url": "https://github.com/home-assistant/operating-system/releases/tag/9.0",
+          "skipped_version": null,
+          "title": "Home Assistant Operating System",
+          "entity_picture": "https://brands.home-assistant.io/homeassistant/icon.png",
+          "friendly_name": "Home Assistant Operating System Update",
+          "supported_features": 3
+        },
+        "last_changed": "2022-09-29T19:14:51.779436+00:00",
+        "last_updated": "2022-09-29T19:14:51.779436+00:00",
+        "context": {
+          "id": "01GE5ARKR3FZP4SPC7MFDZKG9D",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-09-29T19:14:53.355405+00:00"
+    }
+  ]
+}
